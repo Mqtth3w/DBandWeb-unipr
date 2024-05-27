@@ -1,3 +1,3 @@
 # Database and Web project
 ## Description
-A simple dynamic site 
+A simple dynamic site with DB
