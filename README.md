@@ -1,3 +1,5 @@
 # Database and Web project
-## Description
-A simple dynamic site with DB
+A simple dynamic site with DB.
+
+## Documentation
+Look at "Documentazione progettobdw.pdf".
